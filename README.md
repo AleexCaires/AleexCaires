@@ -4,7 +4,7 @@
   <samp>
     Hey!! I'm Alex Caires :wave:
     <br><br>
-    I'm a Junior Front End Developer :globe_with_meridians: on a learning journey.
+   Junior Front End Developer :globe_with_meridians: on a learning journey.
   </samp>
 </p>
 
