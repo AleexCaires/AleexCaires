@@ -1,25 +1,9 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
-  <br><br>
-  <samp>
-    Hey!! I'm Alex Caires :wave:
-    <br><br>
-   Junior Front End Developer :globe_with_meridians: on a learning journey.
-  </samp>
+<h1 align="center">Hi 👋, I'm Alex Caires</h1>
+<h3 align="center">A Junior Frontend developer from England</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/alexdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexdesigns" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alex-caires-b7b39b174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-caires-b7b39b174" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alee3xyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alee3xyt" height="30" width="40" /></a>
 </p>
-
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/alex-caires-b7b39b174/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/tiiagoaleex/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
- &nbsp; &nbsp;
-<a href="mailto:tiagoaleex@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
-<a href="https://aleex-caires-portfolio-oa0w1moyt-aleexcaires.vercel.app/"><img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/48/000000/external-portfolio-ux-and-ui-flatarticons-blue-flatarticons.png" alt="Portfolio"></a> 
-
-</p>
-
-<!--https://icons8.com/icons/set/svg-->
-
