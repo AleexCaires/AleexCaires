@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Caires</h1>
-<h3 align="center">A Junior Frontend developer from England</h3>
+<h3 align="center">A Frontend developer from England, currenttly looking for new oportunities to develop my skills</h3>
 
 
 <h3 align="left">Languages:</h3>
