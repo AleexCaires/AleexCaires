@@ -1,30 +1,24 @@
-## Hi, I am Alex Caires, a Front End Developer from London!
-<div align="center">
-  <a href="https://github.com/aleexcaires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleexcaires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexcaires&layout=compact&langs_count=7&theme=dark"/>
-</div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alex-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Alex-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg">
-</div>
+<h1 align="center">Hi, I'm Alex Caires 👋</h1> <p align="center"> <b>Fullstack Developer</b> · Experimentation & CRO · London, by way of Madeira 🇵🇹 </p> <p align="center"> <a href="https://www.linkedin.com/in/alex-caires-b7b39b174/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:tiagoaleex@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.youtube.com/channel/UC0gpuIP6jjfPgpvAx0dzqcA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.twitch.tv/alexigurtes"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a> <a href="https://www.instagram.com/tiiagoaleex/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+🧪 About me
+Fullstack developer at Conversio, a CRO agency, building A/B tests, personalisation experiments and internal tools
+I work across the stack: client-side experiments and UI, through to APIs, databases and the tooling behind them
+I like the tricky bits: injecting UI into React and Angular apps that keep re-rendering underneath you
+I build Chrome extensions for debugging analytics and dataLayer events
+✈️ 15 countries visited and counting
+🛠️ Tech stack
 
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC0gpuIP6jjfPgpvAx0dzqcA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/tiiagoaleex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/alexigurtes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tiagoaleex@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-caires-b7b39b174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/aleexcaires/aleexcaires/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
- 
- 
+Frontend
 
+<p> <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,gatsby&theme=dark" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind, Gatsby"> </p>
+
+Backend
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql&theme=dark" alt="Node.js, Express, PHP, MySQL"> </p>
+
+Tools
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, Vercel"> </p>
+📊 Experimentation & analytics
+<p> <img src="https://img.shields.io/badge/AB_Tasty-1E1E1E?style=flat-square" alt="AB Tasty"> <img src="https://img.shields.io/badge/Adobe_Target-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Target"> <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4"> <img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager"> <img src="https://img.shields.io/badge/Adobe_Analytics-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Analytics"> </p>
+📈 GitHub stats
+<p align="center"> <img height="165" src="./profile/stats.svg" alt="GitHub stats"> <img height="165" src="./profile/top-langs.svg" alt="Top languages"> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleexcaires/aleexcaires/output/github-contribution-grid-snake-dark.svg"> <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aleexcaires/aleexcaires/output/github-contribution-grid-snake.svg"> </picture> </p>
